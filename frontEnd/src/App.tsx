@@ -18,5 +18,5 @@ export default function App() {
     };
   }, []);
 
-  return <button>socket 통신 시작</button>;
+  return <>소켓 통신을 시작합니다</>;
 }
